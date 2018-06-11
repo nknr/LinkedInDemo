@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LinkedInDemo</string>
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="share">Share</string>
+    <string name="sign_in_linkedin">Sign in with LinkedIn</string>
+</resources>
